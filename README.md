@@ -6,6 +6,7 @@ A Python playbook for common algorithms, interesting problems, handy tricks and 
 ## Search Algorithms
 
 [Breadth First Search](https://github.com/kmjbyrne/python-playbook/blob/master/searching/breadth_first_search.ipynb)
+
 [Depth First Search](https://github.com/kmjbyrne/python-playbook/blob/master/searching/dpth_first_search.ipynb)
 
 ## Sorting Algorithms
