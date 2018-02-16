@@ -11,7 +11,7 @@ Data Structures
 .. toctree::
    :maxdepth: 3
    
-   data_structures/sets.rst
+   data_structures/index.rst
 
 Algorithms
 ================
