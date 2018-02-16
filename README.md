@@ -1,7 +1,6 @@
-.. |docs| image:: https://readthedocs.org/projects/docs/badge/?version=latest
-    :alt: Documentation Status
-    :scale: 100%
-    :target: https://playbook.readthedocs.io/en/latest/?badge=latest
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 # Python Pocket Playbook
 A Python playbook for common algorithms, interesting problems, handy tricks and easy referencing on the go
