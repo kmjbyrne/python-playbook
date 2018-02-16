@@ -9,7 +9,7 @@ Data Structures
 ================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    data_structures/index.rst
 
@@ -17,7 +17,7 @@ Algorithms
 ================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    algorithms/index.rst
 
@@ -26,7 +26,7 @@ Examples
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    examples/index.rst
 
