@@ -11,7 +11,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 3
    
-   algorithms
-   data_structures
-   functional
-   examples
+   ../algorithms
+   ../data_structures
+   ../functional
+   ../examples
