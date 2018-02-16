@@ -13,6 +13,10 @@ A Python playbook for common algorithms, interesting problems, handy tricks and 
 
 # Data Structures
 
+## List
+
+[Sets](https://github.com/kmjbyrne/python-playbook/blob/master/datastructures/sets.ipynb)
+
 ## Trees
 
 ## Linked List
