@@ -1,6 +1,5 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 # Python Pocket Playbook
 A Python playbook for common algorithms, interesting problems, handy tricks and easy referencing on the go
