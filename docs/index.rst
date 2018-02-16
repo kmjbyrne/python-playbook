@@ -16,6 +16,17 @@ Data Structures
 Algorithms
 ================
 
+.. toctree::
+   :maxdepth: 3
+   
+   algorithms/index.rst
+
 Examples
 ================
+
+
+.. toctree::
+   :maxdepth: 3
+   
+   examples/index.rst
 
