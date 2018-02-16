@@ -8,8 +8,8 @@ A set is an abstract data type that is a well-defined, unordered collection of e
 
 Unlike various other data structures, elements are more often tested for membership within a set rather than the retrieval of a specific element for said set.
 
-
 .. code-block:: python
+  :linenos:
   # To create a set in Python, we use curly parenthesis, quite similar to creating a dictionary 
   # Let's create a set of numbers ranging from 1 to 7
   A = {1, 2, 3, 4, 5, 6, 7}
@@ -57,9 +57,3 @@ Symmetric Difference of two sets is the set of elements that exist in both a set
 Symmetric Difference is performed using the hat operator - ^.
 
 Or the instance method symmetric_difference()
-
-
-.. automodule:: datastructures.sets
-    :members:
-    :undoc-members:
-    :show-inheritance:
