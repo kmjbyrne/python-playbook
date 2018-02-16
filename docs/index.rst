@@ -9,6 +9,6 @@ This catalogue is a mixture of pre-baked Jupyter notebooks for demonstration and
 Table of Contents
 ------------------------
 .. toctree::
-   :maxdepth: 2
-
-    data_structures/
+   :maxdepth: 3
+   
+   data_structures
