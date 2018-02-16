@@ -5,4 +5,4 @@ Located here are commonly used data structures in Python and some basic use case
 .. toctree::
    :maxdepth: 2
 
-   sets
+   data_structures/sets
