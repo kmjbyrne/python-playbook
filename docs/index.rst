@@ -9,7 +9,7 @@ Data Structures
 ================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    data_structures/index.rst
 
