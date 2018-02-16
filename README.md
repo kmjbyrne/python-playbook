@@ -1,3 +1,8 @@
+.. |docs| image:: https://readthedocs.org/projects/docs/badge/?version=latest
+    :alt: Documentation Status
+    :scale: 100%
+    :target: https://playbook.readthedocs.io/en/latest/?badge=latest
+
 # Python Pocket Playbook
 A Python playbook for common algorithms, interesting problems, handy tricks and easy referencing on the go
 
