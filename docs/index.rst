@@ -11,4 +11,4 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-    data_structures/sets
+    data_structures
