@@ -8,18 +8,14 @@ This catalogue is a mixture of pre-baked Jupyter notebooks for demonstration and
 Data Structures
 ================
 
+.. toctree::
+   :maxdepth: 3
+   
+   data_structures/sets.rst
+
 Algorithms
 ================
 
 Examples
 ================
 
-Table of Contents
-------------------------
-.. toctree::
-   :maxdepth: 3
-   
-   ../algorithms
-   ../data_structures
-   ../functional
-   ../examples
