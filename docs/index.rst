@@ -11,7 +11,4 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-    algorithms
-      bread_first_search
-      depth_first_search
     data_structures/sets
