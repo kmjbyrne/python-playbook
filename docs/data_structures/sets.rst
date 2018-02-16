@@ -29,14 +29,34 @@ Operations
 Union
 ###########
 
+A union of two sets is the combined set of all elements from a given set A and B. The union operation in Python is performed by either using the | operator or the instance method union()
+
+Let's consider out set A from above and create a new set C which contains additional values to demonstrate set union
+
 Intersection
 ###########
+
+Intersection of two sets is the elements of a given set A and B that are only available in both sets. For example, given set A and set B, both list of names.
+
+Intersection is performed by the ampersand operator - & or alternatively the instance method intersection()
 
 Difference
 ###########
 
+Difference is the difference between sets A and B. This is the inverse of intersection, such that we will get the values only in one set and not in another.
+
+Difference is performed using the hyphen operator -
+
+And of course using the instance method difference()
+
 Symmetrical Difference
 ###########
+
+Symmetric Difference of two sets is the set of elements that exist in both a set A and a set B except elements that are common in both.
+
+Symmetric Difference is performed using the hat operator - ^.
+
+Or the instance method symmetric_difference()
 
 
 .. automodule:: datastructures.sets
