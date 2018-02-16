@@ -14,4 +14,4 @@ Table of Contents
     algorithms
       bread_first_search
       depth_first_search
-    datastructures
+    data_structures
