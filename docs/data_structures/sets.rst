@@ -37,3 +37,9 @@ Difference
 
 Symmetrical Difference
 ###########
+
+
+.. automodule:: datastructures.sets
+    :members:
+    :undoc-members:
+    :show-inheritance:
