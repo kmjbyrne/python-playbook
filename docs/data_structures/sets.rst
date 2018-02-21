@@ -56,10 +56,10 @@ Intersection is performed by the ampersand operator - & or alternatively the ins
     A = {1, 2, 3, 4, 5, 6, 7, 8}
     B = {8, 9, 10}
     
-    method_union = A.intersection(B)
-    operator_union = A & B
+    method_intersection = A.intersection(B)
+    operator_intersection = A & B
     
-    assert method_union == {8}
+    assert method_intersection == {8}
 
 Difference
 ###########
@@ -75,10 +75,10 @@ And of course using the instance method difference()
     A = {'john', 'mary', 'george'}
     B = {'martha', 'john', 'thomas'}
     
-    method_union = A.difference(B)
-    operator_union = A - B
+    method_difference = A.difference(B)
+    operator_difference = A - B
     
-    assert method_union == ?
+    assert method_difference == ?
 
 Symmetrical Difference
 ###########
