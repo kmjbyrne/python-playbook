@@ -8,7 +8,8 @@ A set is an abstract data type that is a well-defined, unordered collection of e
 
 Unlike various other data structures, elements are more often tested for membership within a set rather than the retrieval of a specific element for said set.
 
-.. highlight::
+.. code:: python
+
     # To create a set in Python, we use curly parenthesis, quite similar to creating a dictionary 
     # Let's create a set of numbers ranging from 1 to 7
     A = {1, 2, 3, 4, 5, 6, 7}
