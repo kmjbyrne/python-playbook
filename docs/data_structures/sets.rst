@@ -34,6 +34,7 @@ A union of two sets is the combined set of all elements from a given set A and B
 Let's consider the same set A from above and create a new set C which contains additional values to demonstrate set union
 
 .. code:: python
+
     A = {1, 2, 3, 4, 5, 6, 7}
     B = {8, 9, 10}
     
@@ -51,6 +52,7 @@ Intersection of two sets is the elements of a given set A and B that are only av
 Intersection is performed by the ampersand operator - & or alternatively the instance method intersection()
 
 .. code:: python
+
     A = {1, 2, 3, 4, 5, 6, 7, 8}
     B = {8, 9, 10}
     
@@ -69,6 +71,7 @@ Difference is performed using the hyphen operator -
 And of course using the instance method difference()
 
 .. code:: python
+
     A = {'john', 'mary', 'george'}
     B = {'martha', 'john', 'thomas'}
     
