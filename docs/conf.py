@@ -3,6 +3,5 @@
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'sphinx.ext.viewcode',
-    'rst2pdf.pdfbuilder'
+    'sphinx.ext.viewcode'
 ]
