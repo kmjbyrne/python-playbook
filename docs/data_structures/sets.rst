@@ -31,7 +31,17 @@ Union
 
 A union of two sets is the combined set of all elements from a given set A and B. The union operation in Python is performed by either using the | operator or the instance method union()
 
-Let's consider out set A from above and create a new set C which contains additional values to demonstrate set union
+Let's consider the same set A from above and create a new set C which contains additional values to demonstrate set union
+
+.. code:: python
+    A = {1, 2, 3, 4, 5, 6, 7}
+    B = {8, 9, 10}
+    
+    # Let D equal the union of two sets A U C
+    method_union = A.union(B)
+    operator_union = A | B
+    
+    assert method_union == {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
 Intersection
 ###########
@@ -39,6 +49,15 @@ Intersection
 Intersection of two sets is the elements of a given set A and B that are only available in both sets. For example, given set A and set B, both list of names.
 
 Intersection is performed by the ampersand operator - & or alternatively the instance method intersection()
+
+.. code:: python
+    A = {1, 2, 3, 4, 5, 6, 7, 8}
+    B = {8, 9, 10}
+    
+    method_union = A.intersection(B)
+    operator_union = A & B
+    
+    assert method_union == {8}
 
 Difference
 ###########
@@ -48,6 +67,15 @@ Difference is the difference between sets A and B. This is the inverse of inters
 Difference is performed using the hyphen operator -
 
 And of course using the instance method difference()
+
+.. code:: python
+    A = {'john', 'mary', 'george'}
+    B = {'martha', 'john', 'thomas'}
+    
+    method_union = A.difference(B)
+    operator_union = A - B
+    
+    assert method_union == ?
 
 Symmetrical Difference
 ###########
