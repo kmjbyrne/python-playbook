@@ -5,6 +5,14 @@ A Python playbook for common algorithms, interesting problems, handy tricks and 
 
 This catalogue is a mixture of pre-baked Jupyter notebooks for demonstration and importable code for Python projects.
 
+Data Types
+================
+
+.. toctree::
+   :maxdepth: 1
+   
+   types/index.rst
+   
 Data Structures
 ================
 
