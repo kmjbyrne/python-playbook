@@ -4,7 +4,7 @@ Data Types
 A field briefing of Python's core data types and some useful tips
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    list
    tuple
